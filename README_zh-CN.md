@@ -13,16 +13,16 @@
 
 ------
 
-The data annotation realm transforms, spurred by technological innovation and market demands. Algorithmic automation supplants manual annotation, enabling efficient, precise, scalable solutions. Deep learning-driven innovative models catalyze this shift, and the expanding market attracts comprehensive service offerings. ***Sapphire*** integrates cutting-edge technology to meet industry's need for intelligent, cost-effective annotation solutions.
+中文版 | [English Version](README.md)
 
-[中文版](README_zh-CN.md) | English Version
+在技术创新和市场需求的推动下，数据注释领域发生了转变。 算法自动化取代了手动注释，实现了高效、精确、可扩展的解决方案。 深度学习驱动的创新模型催化了这一转变，不断扩大的市场吸引了全面的服务产品。 ***Sapphire*** 集成了尖端技术，可满足行业对智能、经济高效的注释解决方案的需求。
 
-## Repo Info
+## 仓库信息
 
 下游仓库：
 
 - [文档仓库](https://github.com/sduoffline/sapphire-doc)
 
-## License
+## 许可证
 
-The project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+该项目根据 MIT 许可证获得许可。 有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
