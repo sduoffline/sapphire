@@ -13,8 +13,14 @@
 
 ------
 
-Saphhire project main repo.
+The data annotation realm transforms, spurred by technological innovation and market demands. Algorithmic automation supplants manual annotation, enabling efficient, precise, scalable solutions. Deep learning-driven innovative models catalyze this shift, and the expanding market attracts comprehensive service offerings. ***Sapphire*** integrates cutting-edge technology to meet industry's need for intelligent, cost-effective annotation solutions.
+
+## Repo Info
 
 下游仓库：
 
 - [文档仓库](https://github.com/sduoffline/sapphire-doc)
+
+## License
+
+The project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
